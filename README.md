@@ -27,7 +27,7 @@ mahout clusterdump -d /train-sparse/dictionary.file-0 -dt sequencefile -i /train
 
 ## Passo a Passo
 - Ter instalado o virtual box  em sua maquina
-- Fazer o download da maquina arquivo virtual [almalinux_8.ova](https://swatpc.cloud/Almalinux_8.ova)
+- Fazer o download da maquina arquivo [Almalinux_8.ova](https://swatpc.cloud/Almalinux_8.ova)
 - Importar o arquivo almalinux_8.ova no seu Virtual Box
 - Iniciar Maquina Virtual
 - login usuário haddop senha 1234
