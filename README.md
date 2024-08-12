@@ -31,6 +31,6 @@ C50train
 - Importar o arquivo Almalinux_8.ova no seu Virtual Box
 - Iniciar Maquina Virtual
 - login usuário hadoop | senha 1234
-- execurtar o comando para iniciar o haddop  `./start_hadoop.sh`  e  `./stop_hadoop.sh` para parar o haddop
+- execurtar o comando para iniciar o hadoop  `./start_hadoop.sh`  e  `./stop_hadoop.sh` para parar o hadoop
 - agora consegue executar as sequencias de comandos acima
   
