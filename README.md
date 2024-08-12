@@ -30,7 +30,7 @@ mahout clusterdump -d /train-sparse/dictionary.file-0 -dt sequencefile -i /train
 - Fazer o download da maquina arquivo [Almalinux_8.ova](https://swatpc.cloud/Almalinux_8.ova)
 - Importar o arquivo Almalinux_8.ova no seu Virtual Box
 - Iniciar Maquina Virtual
-- login usuário haddop | senha 1234
+- login usuário hadoop | senha 1234
 - execurtar o comando para iniciar o haddop  `./start_hadoop.sh`  e  `./stop_hadoop.sh` para parar o haddop
 - agora consegue executar as sequencias de comandos acima
   
