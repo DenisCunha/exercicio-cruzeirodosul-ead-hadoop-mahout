@@ -23,7 +23,7 @@ mahout kmeans -i /train-sparse/tfidf-vectors/ -c /kmeans-train-clusters -o /trai
 
 mahout clusterdump -d /train-sparse/dictionary.file-0 -dt sequencefile -i /train-clusters-final/clusters-10-final -n 10 -b 100 -o ~/saida_clusters.txt -p /train-clusters-final/clustered-points
 
-## ao final da execusão dos comandos acima terá um arquivo com resultados nome saida_clusters.txt
+## ao final da execução dos comandos acima terá um arquivo com resultados nome saida_clusters.txt
 
 ## Passo a Passo
 - Ter instalado o virtual box  em sua maquina
