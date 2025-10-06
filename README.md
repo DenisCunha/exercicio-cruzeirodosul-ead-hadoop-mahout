@@ -27,7 +27,7 @@ C50train
 
 ## Passo a Passo
 - Ter instalado o virtual box  em sua maquina
-- Fazer o download da maquina arquivo [Almalinux_8.ova](https://swatpc.cloud/Almalinux_8.ova)
+- Fazer o download da maquina arquivo [Almalinux_8.ova](https://swatpc.srv.br/Almalinux_8.ova)
 - Importar o arquivo Almalinux_8.ova no seu Virtual Box
 - Iniciar Maquina Virtual
 - login usuário hadoop | senha 1234
